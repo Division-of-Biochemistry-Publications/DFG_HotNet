@@ -1,5 +1,5 @@
 # <u>Pot-HotNet project<u/> <br/> Unravelling the regulatory network involved in heat-stress tolerance of potato plants <br />
-### Scripts, codes and analyses used for publications associated with the Pot-HotNet funded by the Deutsche Forschungsgemeinschaft (DFG) (project number 432435747)
+### Scripts, codes and analyses used for publications associated with the Pot-HotNet project funded by the Deutsche Forschungsgemeinschaft (DFG) (project number 432435747)
 ### 2025
 **Insight into responses to elevated temperatures in Solanum tuberosum cultivars with contrasting sensitivity** (https://doi.org/10.1016/j.jplph.2025.154683))<br /><br />
 Authors:<br />
